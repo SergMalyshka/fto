@@ -1,0 +1,25 @@
+textArea {
+  background-color: #e1eaec;
+  width: 100%;
+  margin-top: 8px;
+  padding-bottom: 10px;
+}
+
+.header {
+  font-size: 35px;
+  padding-top: 20px;
+  color: #47A8BD;
+}
+
+.buttonPushable {
+  padding-top: 8px;
+}
+
+.inputBox {
+  padding-bottom: 14px;
+}
+
+.saveButton {
+  max-width: 100%;
+  margin: auto;
+}

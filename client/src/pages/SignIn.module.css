@@ -1,0 +1,73 @@
+.singleRow {
+    margin-top: 5rem;
+    padding: 0%;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.vertical {
+    color: #47A8BD;
+    margin: auto;
+    padding: 2px;
+    height: 175px;
+}
+
+.or {
+    margin: auto;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #47A8BD
+}
+
+.option, .loggedIn {
+    font-size: 3rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #47A8BD
+}
+
+.formItem {
+    margin: 5px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.button {
+    margin-top: 5px;
+    background-color: #ECA72C;
+}
+
+.error {
+    color: #F02D3A
+}
+
+.hr {
+    background-color:#47A8BD;
+}
+
+.severityText {
+    margin-top: 10px;
+    margin-bottom: 3px;
+    font-size: larger;
+    color: #47A8BD;
+}
+
+.severity {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.semi {
+    color: #D17A22
+}
+
+.severityForm {
+    max-width: 600px;
+    margin: auto;
+}
+
+.vrl {
+    border-left: 6px solid#47A8BD;
+    height: 250px;
+    position: absolute;
+    left: 50%;
+}
